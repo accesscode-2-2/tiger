@@ -13,9 +13,8 @@
 
 # Weekly Pod Meeting Template
 
-* Date: June 6th, 2015
-* Attendants: Dison, Madelyn, Abass, Rosemary, Pooja
-* Team Leader: Abass
+* Date: July 11th, 2015
+* Team Leader: Kaira
 
 ### This Week's Goals
 
