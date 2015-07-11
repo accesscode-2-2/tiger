@@ -18,14 +18,11 @@
 
 ### This Week's Goals
 
-* Submit all the homework on time
-* Master all the material covered this week
-* Be on time to class!
+* Pass assessment
+* Practice code daily!
 
 * **Additional Goal(s) set by the pod** [UPDATE THIS]
-* Review code of conduct
-* Madelyn would like to make meditating a new group goal.
-* Make previous apps (scientific calculator, horoscope, and meme) faster/more efficient/ more elegant/ more pretty.
+* Apartment search in Queens (Kaira and Kaisha)!
 
 ### Weekly Retrospective -
 
