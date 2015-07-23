@@ -7,23 +7,23 @@ Learn Data Structures to pass Dev interviews test!
 Understanding UI and constraints
 
 ####Jamaal:
-Secure laptop for C4Q
-Reach out to Aliya and Rachel
-Be comfortable with UI
-Go to office hours at least once this week
+Secure laptop for C4Q \n
+Reach out to Aliya and Rachel\n
+Be comfortable with UI \n
+Go to office hours at least once this week \n
 
 ####Natalia:
 Study Data Structures
 
 ####Kaira:
-Finish homework 
-Finish essay for blog
-Sleep 8 hours a day
+Finish homework \n
+Finish essay for blog \n
+Sleep 8 hours a day \n
 
 
 ####Kaisha:
-Study Treehouse videos
-Study Big Nerd Ranch
-Meditate and destress
+Study Treehouse videos \n
+Study Big Nerd Ranch \n
+Meditate and destress \n
 
 
