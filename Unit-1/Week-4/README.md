@@ -1,6 +1,6 @@
-## 08/01/2015
+##### 08/01/2015
 
-####Team Goals 
+###Team Goals 
 - Take risks 
 - Ask more questions
 - Being okay with being wrong
