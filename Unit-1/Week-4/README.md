@@ -1,3 +1,5 @@
+## 08/01/2015
+
 ####Team Goals 
 - Take risks 
 - Ask more questions
