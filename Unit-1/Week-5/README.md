@@ -25,6 +25,7 @@
 
 ###Kaira:
 * Do more game stuff
+* Follow your gut
 
 ###Natalia:
-* Just F U C K I N G   c o d e
+* Just__F U C K I N G___c o d e
